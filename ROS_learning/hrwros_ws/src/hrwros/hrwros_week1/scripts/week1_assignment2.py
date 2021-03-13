@@ -6,7 +6,7 @@
 
 import rospy
 from hrwros_msgs.msg import BoxHeightInformation
-from hrwros_msgs.srv import ConvertMetresToFeet, ConvertMetresToFeetRequest, ConvertMetresToFeetResponse
+from hrwros_msgs.srv import ConvertMetresToFeet
 
 def box_height_info_callback(data):
     try:

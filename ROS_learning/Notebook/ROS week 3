@@ -127,7 +127,7 @@ Global:
 	Give a location with respect to the world
 	Often inaccurate compared to local methods
 	For example: GPS or Wi-Fi hotspots
-	
+
 Local:
 	Give a location with respect to local sensor feedback
 	Can be highly accurate compared to global methods
